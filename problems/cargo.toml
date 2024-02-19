@@ -7,5 +7,5 @@ edition = "2021"
 rand = "0.8.5"
 
 [[bin]]
-name = "xor"
-path = "src/xor.rs"
+name = "mlpxor"
+path = "src/mlpxor.rs"
